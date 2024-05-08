@@ -1,2 +1,2 @@
 # JavaScript-OOPS
-Quick OOPS guide in JS
+Oops Fundamentals in Java Script
